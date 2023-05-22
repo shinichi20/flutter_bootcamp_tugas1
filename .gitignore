@@ -4,6 +4,11 @@
 *.apk
 *.ap_
 
+# file another
+windows/
+linux/
+web/
+
 # Files for the ART/Dalvik VM
 *.dex
 
