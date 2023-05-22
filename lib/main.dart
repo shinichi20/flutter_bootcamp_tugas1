@@ -6,7 +6,7 @@ void main() {
 }
 
 class LoginScreenPage extends StatelessWidget {
-  // LoginScreenPage({super.key})
+  const LoginScreenPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -76,7 +76,7 @@ class _LoginDemoState extends State<LoginDemo> {
               child: TextButton(
                 onPressed: () {
                   Navigator.push(
-                      context, MaterialPageRoute(builder: (_) => home_page()));
+                      context, MaterialPageRoute(builder: (_) => const HomePage()));
                 },
                 child: const Text(
                   'Login',
