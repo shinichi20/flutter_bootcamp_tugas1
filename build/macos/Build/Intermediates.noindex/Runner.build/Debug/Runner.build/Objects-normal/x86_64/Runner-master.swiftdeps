@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
-options: "c03349ceca56e44d519686269c56250e1181a0edb1989378b1207ead0d11de86"
-build_start_time: [1684752786, 37791000]
-build_end_time: [1684752789, 675082000]
-inputs:
-  "/Users/asepherbasuki/Documents/Altea/project/flutter/flutter_bootcamp_tugas1/macos/Flutter/GeneratedPluginRegistrant.swift": [1684752776, 722012139]
-  "/Users/asepherbasuki/Documents/Altea/project/flutter/flutter_bootcamp_tugas1/macos/Runner/AppDelegate.swift": [1650309730, 0]
-  "/Users/asepherbasuki/Documents/Altea/project/flutter/flutter_bootcamp_tugas1/macos/Runner/MainFlutterWindow.swift": [1684289290, 571421027]
