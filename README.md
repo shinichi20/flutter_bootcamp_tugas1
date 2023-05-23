@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## ScreenShots
 
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5nhZczy/Screenshot-2023-05-23-at-15-53-36.png" alt="Screenshot-2023-05-23-at-15-53-36" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5nhZczy/Screenshot-2023-05-23-at-15-53-36.png" alt="Screenshot-2023-05-23-at-15-53-36" border="0" width="150"/></a>
 </p>
