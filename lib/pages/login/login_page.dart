@@ -14,10 +14,6 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // backgroundColor: Colors.white,  
-      // appBar: AppBar(
-      //   title: const Text("Login Page"),
-      // ),
       body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
@@ -73,10 +69,6 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             const SizedBox(height: 25),
-            // const Text(NamesConstans.NEW_USER),
-            // const SizedBox(
-            //   height: 28.0,
-            // ),
             const Text(
               '-OR-',
                style: TextStyle(
